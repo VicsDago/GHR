@@ -6,9 +6,9 @@ Junto a un equipo interdisciplinario participé del desarrollo del sitio web uti
 
 Integrantes del equipo:
 
-Desarrollo Victoria Dago y Gonzalo Cebrero
-Diseño gráfico Angeles Downes
-Community manager Camila Martin Schneider
-Diseñadora UX/UI Juliana Casas
-PM Erica Schoenfeld
+Desarrollo Victoria Dago y Gonzalo Cebrero / 
+Diseño gráfico Angeles Downes / 
+Community Manager Camila Martin Schneider / 
+Diseñadora UX/UI Juliana Casas / 
+Product Manager Erica Schoenfeld / 
 
